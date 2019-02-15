@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\PrintHelloWorld\PrintHelloWorld\bin\Debug\PrintHelloWorld.exe.config
+C:\Users\USER\source\repos\PrintHelloWorld\PrintHelloWorld\bin\Debug\PrintHelloWorld.exe
+C:\Users\USER\source\repos\PrintHelloWorld\PrintHelloWorld\bin\Debug\PrintHelloWorld.pdb
+C:\Users\USER\source\repos\PrintHelloWorld\PrintHelloWorld\obj\Debug\PrintHelloWorld.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\PrintHelloWorld\PrintHelloWorld\obj\Debug\PrintHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PrintHelloWorld\PrintHelloWorld\obj\Debug\PrintHelloWorld.exe
+C:\Users\USER\source\repos\PrintHelloWorld\PrintHelloWorld\obj\Debug\PrintHelloWorld.pdb
